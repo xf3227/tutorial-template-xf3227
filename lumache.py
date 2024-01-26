@@ -39,6 +39,7 @@ class TestClass:
         
         :param p1: __p1__
         :type p1: list[str] or None
+        :return: The ingredients list.
         :rtype: list
         """
         pass
