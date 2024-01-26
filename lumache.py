@@ -30,7 +30,7 @@ class TestClass:
         """ __init__
         
         :param p1: __p1__
-        :type kind: list[str] or None
+        :type p1: list[str] or None
         """
         pass
 
@@ -38,7 +38,7 @@ class TestClass:
         """ method_1
         
         :param p1: __p1__
-        :type kind: list[str] or None
+        :type p1: list[str] or None
         :rtype: list
         """
         pass
