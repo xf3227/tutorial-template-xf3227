@@ -22,6 +22,7 @@ extensions = [
 autodoc_default_options = {
     'autosummary': True,
 }
+autosummary_generate = True
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
